@@ -98,7 +98,7 @@ const Hero = () => {
             <p>for Tech Roles?</p>
           </div>
           <a
-            href="https://cdn.rajaryan.work/Raj_Aryan_Resume.pdf"
+            href="https://drive.google.com/file/d/11IW-7LElEkV59HiK-kK54WBSU0_BmWsI/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
