@@ -75,7 +75,7 @@ const Hero = () => {
               Hiring for Tech Roles?
             </p>
             <button className="outline-2 text-white border-spacing-x-1 group-hover:w-fit  scale-x-0 translate-x-[-50%] group-hover:scale-x-100 group-hover:translate-x-0  bg-[#1f1f1f] hover:bg-[#252525] rounded-lg px-3 py-2 duration-300 transition-all ease-in-out">
-              Let's Talk
+              Let's Talk 
             </button>
           </Link>
           <a
